@@ -1,6 +1,6 @@
 <h1 align = "center">🌟LilyGo LoRa Series🌟</h1>
 
-## **English | [中文](./README_CN.MD)**
+
 
 
 <h3 align = "left">Quick start:</h3>
